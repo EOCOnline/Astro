@@ -8,7 +8,7 @@ type Post = {
   description: string;
   author: any;
 };
-export default function BlogPostCard({ post }: { post: Post }) {
+export default function insightsPostCard({ post }: { post: Post }) {
   return (
     <article
       key={post.id}
@@ -19,7 +19,7 @@ export default function BlogPostCard({ post }: { post: Post }) {
           {post.date}
         </time>
         <a
-          href={`/blog/`}
+          href={`/insights/`}
           className="relative rounded-full bg-gray-50 py-1.5 px-3 font-medium text-gray-600 hover:bg-gray-100"
         >
           {post.category.title}
@@ -27,7 +27,7 @@ export default function BlogPostCard({ post }: { post: Post }) {
       </div>
       <div className="group relative">
         <h3 className="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
-          <a href={`/blog/${post.id}`}>
+          <a href={`/insights/${post.id}`}>
             <span className="absolute inset-0" />
             {post.title}
           </a>

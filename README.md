@@ -14,7 +14,7 @@ Inside of your Astro project, you'll see the following folders and files:
 │   └── favicon.svg
 ├── src
 │   ├── components
-│   │   ├── BlogPostCard.tsx
+│   │   ├── insightsPostCard.tsx
 │   │   ├── CTA.tsx
 │   │   ├── Card.astro
 │   │   ├── Data.tsx
@@ -30,7 +30,7 @@ Inside of your Astro project, you'll see the following folders and files:
 │   │   └── Layout.astro
 │   └── pages
 │       ├── 404.astro
-│       ├── blog
+│       ├── insights
 │       │   ├── [id].astro
 │       │   └── index.astro
 │       ├── contact.astro
@@ -71,6 +71,28 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 
 ## Deploy
 
-Host your own live version of Astro-landing-page with Vercel.
+Possible EOC online home page.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FJungley8%2Fastro-landing-page)
+
+## ToDo
+
+- https://tailwindui.com/templates & https://headlessui.com/ & https://www.tailwindtoolbox.com/
+- https://accessible-astro.netlify.app/accessible-components/
+- consider using aspects of https://tailus.gumroad.com/l/astls-premium
+- tailgrids... https://play-astro.tailgrids.com/ and https://tailgrids.com/components
+- CubeCSS? variant of BEM: https://astro.build/themes/details/astro-cube/
+- https://astro.new
+- Hosting: https://vercel.com/products/managed-infrastructure
+- design aspects: https://every-layout.dev/
+- https://astro.build/themes/details/welcome-to-astro/
+- JSON based website: https://github.com/JimmyCamus/luna-landing & https://luna-landing-rust.vercel.app/
+- themes: https://lexingtonthemes.com/pricing/#features w/ discount code: LEXINGTON30
+- https://astro.build/themes/details/atom/
+- Tailus tailwindcss components: https://preview.tailus.io/atom/ https://tailus.io/ https://beta.tailus.io/docs/themer/plugin/
+- https://astro-moon-landing.netlify.app/
+- https://ev0.gndx.dev/
+- https://astromax.vercel.app/
+- https://www.tailwindresources.com/popular/free/
+- http://jekyllthemes.org/
+- https://astro.build/integrations/5/

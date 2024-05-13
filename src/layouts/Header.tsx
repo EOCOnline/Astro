@@ -18,32 +18,42 @@ import classNames from 'classnames';
 
 const products = [
   {
-    name: 'Analytics',
-    description: 'Get a better understanding of your traffic',
-    href: '#',
+    name: 'RangerTrak',
+    description:
+      'RangerTrak is an open-source tool to map and track ranging search and rescue personnel providing updates via radio or other voice technology.',
+    href: '/RangerTrak',
     icon: ChartPieIcon,
   },
   {
-    name: 'Engagement',
+    name: 'Websites',
     description: 'Speak directly to your customers',
     href: '#',
     icon: CursorArrowRaysIcon,
   },
   {
-    name: 'Security',
-    description: 'Your customers’ data will be safe and secure',
-    href: '#',
+    name: 'EOC-Skillsets',
+    description:
+      'FEMA’s list of Skillsets (& associated Skills/Tasks) help Emergency Operation Centers (EOCs) qualify personnel. Common Skillsets suggest training & provide a standardized vocabulary to specify personnel skills between EOCs. This repository contains derivative products of the FEMA skillsets to aid in their effective use.',
+    href: '#openFemaNgClient',
     icon: FingerPrintIcon,
   },
   {
-    name: 'Integrations',
-    description: 'Connect with third-party tools',
+    name: 'openFemaNgClient',
+    description:
+      'A TypeScript & Angular Client for the openFEMA datasets/APIs ',
+    href: '#openFemaNgClient',
+    icon: FingerPrintIcon,
+  },
+  {
+    name: ' COVID-Testing',
+    description:
+      'Standards based simple web page for COVID testing advice & scheduling',
     href: '#',
     icon: SquaresPlusIcon,
   },
   {
     name: 'Automations',
-    description: 'Build strategic funnels that will convert',
+    description: 'Build strategic funnels!',
     href: '#',
     icon: ArrowPathIcon,
   },
@@ -145,30 +155,35 @@ export default function Header() {
               </Popover.Panel>
             </Transition>
           </Popover>
-
           <a
-            href="/#newsletter"
+            href="/insights"
             className="text-sm font-semibold leading-6 text-gray-900"
           >
-            Newsletter
+            insights
           </a>
           <a
-            href="/price"
+            href="/#stayintouch"
             className="text-sm font-semibold leading-6 text-gray-900"
           >
-            Price
+            Subscribe
+          </a>
+          <a
+            href="/resources"
+            className="text-sm font-semibold leading-6 text-gray-900"
+          >
+            Resources
+          </a>
+          <a
+            href="/AboutUs"
+            className="text-sm font-semibold leading-6 text-gray-900"
+          >
+            About
           </a>
           <a
             href="/contact"
             className="text-sm font-semibold leading-6 text-gray-900"
           >
             Contact
-          </a>
-          <a
-            href="/blog"
-            className="text-sm font-semibold leading-6 text-gray-900"
-          >
-            Blog
           </a>
         </Popover.Group>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
@@ -238,7 +253,7 @@ export default function Header() {
                   )}
                 </Disclosure>
                 <a
-                  href="/#newsletter"
+                  href="/#stayintouch"
                   className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                 >
                   Newsletter
@@ -256,10 +271,10 @@ export default function Header() {
                   Contact
                 </a>
                 <a
-                  href="/blog"
+                  href="/insights"
                   className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                 >
-                  Blog
+                  insights
                 </a>
               </div>
               <div className="py-6">
