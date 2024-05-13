@@ -1,9 +1,9 @@
 ---
-import insightsPostCard from '@/components/insightsPostCard';
+import insightsPostCard from '@/components/BlogsPostCard';
 import Layout from '@/layouts/Layout.astro';
 
 const randomPost = () => ({
-  id: Math.floor(Math.random() * 1000),
+  id: Math.floor(Math.random() * 3),
   title: 'Random Title',
   href: '#',
   description: 'This is a randomly generated description.',
@@ -11,7 +11,7 @@ const randomPost = () => ({
   datetime: new Date().toISOString(),
   category: {
     title: 'Random Category',
-    href: '#',
+    href: '1',
   },
   author: {
     name: 'Random Author',
@@ -25,7 +25,7 @@ const posts = [
   {
     id: 1,
     title: 'Boost your conversion rate',
-    href: '#',
+    href: './1',
     description:
       'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
     date: 'Mar 16, 2020',
