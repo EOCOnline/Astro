@@ -1,7 +1,7 @@
 # Astro landing-page
 
 ```
-yarn create astro --template jungley8/astro-landing-page
+yarn create astro --template eocOnline/astro-landing-page
 ```
 
 ## 🚀 Project Structure
@@ -89,10 +89,11 @@ Possible EOC online home page.
 - JSON based website: https://github.com/JimmyCamus/luna-landing & https://luna-landing-rust.vercel.app/
 - themes: https://lexingtonthemes.com/pricing/#features w/ discount code: LEXINGTON30
 - https://astro.build/themes/details/atom/
-- Tailus tailwindcss components: https://preview.tailus.io/atom/ https://tailus.io/ https://beta.tailus.io/docs/themer/plugin/
+- Tailus tailwindcss components: https://preview.tailus.io/atom/ https://tailus.io/ https://beta.tailus.iohttps://tailwindcss.com/docs/themer/plugin/
 - https://astro-moon-landing.netlify.app/
 - https://ev0.gndx.dev/
 - https://astromax.vercel.app/
 - https://www.tailwindresources.com/popular/free/
 - http://jekyllthemes.org/
 - https://astro.build/integrations/5/
+- original code mostly from: https://tailwindui.com/components/marketing/page-examples/landing-pages

@@ -12,7 +12,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/installation"
+                    href="https://tailwindcss.com/docs/installation"
                   >
                     Installation
                   </a>
@@ -20,7 +20,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/editor-setup"
+                    href="https://tailwindcss.com/docs/editor-setup"
                   >
                     Editor Setup
                   </a>
@@ -28,7 +28,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/using-with-preprocessors"
+                    href="https://tailwindcss.com/docs/using-with-preprocessors"
                   >
                     Using with Preprocessors
                   </a>
@@ -36,7 +36,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/optimizing-for-production"
+                    href="https://tailwindcss.com/docs/optimizing-for-production"
                   >
                     Optimizing for Production
                   </a>
@@ -44,7 +44,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/browser-support"
+                    href="https://tailwindcss.com/docs/browser-support"
                   >
                     Browser Support
                   </a>
@@ -52,7 +52,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/upgrade-guide"
+                    href="https://tailwindcss.com/docs/upgrade-guide"
                   >
                     Upgrade Guide
                   </a>
@@ -67,7 +67,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/utility-first"
+                    href="https://tailwindcss.com/docs/utility-first"
                   >
                     Utility-First Fundamentals
                   </a>
@@ -75,7 +75,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/hover-focus-and-other-states"
+                    href="https://tailwindcss.com/docs/hover-focus-and-other-states"
                   >
                     Handling Hover, Focus, and Other States
                   </a>
@@ -83,7 +83,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/responsive-design"
+                    href="https://tailwindcss.com/docs/responsive-design"
                   >
                     Responsive Design
                   </a>
@@ -91,7 +91,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/dark-mode"
+                    href="https://tailwindcss.com/docs/dark-mode"
                   >
                     Dark Mode
                   </a>
@@ -99,7 +99,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/reusing-styles"
+                    href="https://tailwindcss.com/docs/reusing-styles"
                   >
                     Reusing Styles
                   </a>
@@ -107,7 +107,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/adding-custom-styles"
+                    href="https://tailwindcss.com/docs/adding-custom-styles"
                   >
                     Adding Custom Styles
                   </a>
@@ -115,7 +115,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/functions-and-directives"
+                    href="https://tailwindcss.com/docs/functions-and-directives"
                   >
                     Functions &amp; Directives
                   </a>
@@ -132,7 +132,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/configuration"
+                    href="https://tailwindcss.com/docs/configuration"
                   >
                     Configuration
                   </a>
@@ -140,7 +140,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/content-configuration"
+                    href="https://tailwindcss.com/docs/content-configuration"
                   >
                     Content Configuration
                   </a>
@@ -148,7 +148,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/theme"
+                    href="https://tailwindcss.com/docs/theme"
                   >
                     Theme Configuration
                   </a>
@@ -156,7 +156,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/screens"
+                    href="https://tailwindcss.com/docs/screens"
                   >
                     Customizing Screens
                   </a>
@@ -164,7 +164,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/customizing-colors"
+                    href="https://tailwindcss.com/docs/customizing-colors"
                   >
                     Customizing Colors
                   </a>
@@ -172,7 +172,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/customizing-spacing"
+                    href="https://tailwindcss.com/docs/customizing-spacing"
                   >
                     Customizing Spacing
                   </a>
@@ -180,7 +180,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/plugins"
+                    href="https://tailwindcss.com/docs/plugins"
                   >
                     Plugins
                   </a>
@@ -188,7 +188,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="hover:text-slate-900 dark:hover:text-slate-300"
-                    href="/docs/presets"
+                    href="https://tailwindcss.com/docs/presets"
                   >
                     Presets
                   </a>
@@ -257,7 +257,7 @@ export default function Footer() {
             </svg>
           </div>
           <div className="pt-10">
-            MIT License {new Date().getFullYear()} JungleyNet
+            MIT License {new Date().getFullYear()} EOC.online
           </div>
         </div>
       </div>

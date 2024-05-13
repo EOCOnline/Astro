@@ -1,4 +1,4 @@
-// https://getbootstrap.com/docs/5.3/components/card/ 
+// https://getbootstrap.comhttps://tailwindcss.com/docs/5.3/components/card/ 
 
 interface Button {
     name: string
