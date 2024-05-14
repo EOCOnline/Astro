@@ -8,7 +8,7 @@ import vercel from "@astrojs/vercel/serverless";
 // https://astro.build/config
 export default defineConfig({
   output: 'server',
-  // if 使用 docker, 请将 adapter 切换到 node
+  // if docker, adapter node
   // adapter: node({
   //   mode: 'standalone'
   // }),
